@@ -16,10 +16,13 @@ python -m venv .venv
 
 
 2. 使用虚拟环境
+
 Windows:
-`.venv\\Script\\activate`
+
+`.venv\Script\activate`
 
 macOS / Linux:
+
 `source .venv/bin/activate`
 
 3. 安装依赖库和使用
