@@ -28,5 +28,8 @@ macOS / Linux:
 3. 安装依赖库和使用
 ```
 pip install -r requirements.txt
+```
+4. 打开main.py，修改SOURCE_DIR = r"D:\MyPhotos"为你的图片根目录
+```
 python main.py
 ```
