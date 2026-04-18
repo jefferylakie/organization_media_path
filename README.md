@@ -18,9 +18,11 @@ python -m venv .venv
 2. Activate the virtual environment:
 
 Windows:
-`.venv\\Script\\activate`
+
+`.venv\Script\activate`
 
 macOS / Linux:
+
 `source .venv/bin/activate`
 
 3. Install and Run:
