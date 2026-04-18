@@ -28,5 +28,10 @@ macOS / Linux:
 3. Install and Run:
 ```
 pip install -r requirements.txt
+```
+
+4. Open main.py and change SOURCE_DIR = r"D:\MyPhotos" to your image root directory.
+
+```
 python main.py
 ```
